@@ -83,7 +83,7 @@ July 2026 Draft
 [SSRN]
 </a>
 <br>
-<strong><em><u>Job Market Paper.</u></em></strong>
+<strong><em><u>Job Market Paper</u></em></strong>
 </p>
 <details class="mt-1">
 <summary>Abstract</summary>
