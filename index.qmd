@@ -118,7 +118,7 @@ and <a href="https://www.therisksociety.com" target="_blank">IRMC</a>, Bari June
 
 <section class="paper">
 <p class="mb-1">
-<span class="paper-title">
+<span class="nodraftpaper">
 Market Risk Premium: What do Option Markets Tell Us?
 </span>
 (with
@@ -151,7 +151,7 @@ premia.
 
 <section class="paper">
 <p class="mb-1">
-<span class="paper-title">
+<span class="nodraftpaper">
 Are Corporate Labor Misconduct Risks Priced in the Cross-Section of US Bond Returns?
 </span>
 (with
