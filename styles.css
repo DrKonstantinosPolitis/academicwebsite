@@ -63,6 +63,7 @@
 
 .nodraftpaper {
     color: #222;
-    text-decoration: undeline;
+    display: inline-block;
+    border-bottom: 1px solid #222;
 }
 
