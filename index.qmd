@@ -1,0 +1,221 @@
+---
+title: ""
+page-layout: custom
+toc: false
+---
+
+::: {.homepage}
+
+::: {.profile}
+
+![](images/cover_photo.jpg){.profile-photo}
+
+<div class="name">
+Konstantinos-Stavros Politis
+</div>
+
+<div class="affiliation">
+University of Piraeus, Greece
+</div>
+
+<div class="contact">
+  <a href="mailto:kspolitis@unipi.gr">kspolitis@unipi.gr</a>
+</div>
+
+<div class="google_scholar">
+  <a href="https://scholar.google.com/citations?user=Ubpy7_8AAAAJ&hl=en" target="_blank"> Google Scholar </a>
+</div>
+
+<div class="linkedin">
+  <a href="https://www.linkedin.com/in/konstantinos-stavros-politis/"
+     target="_blank">
+     LinkedIn
+  </a>
+</div>
+
+<div class="CV">
+  <a href="CV/CV_Konstantinos_Stavros_Politis_20260131.pdf" target="_blank"> CV </a>
+</div>
+
+
+:::
+
+::: {.content}
+
+Welcome to my website! I am a Ph.D. candidate in Finance at the University of Piraeus. My research lies at the
+intersection of empirical asset pricing, sustainable finance, option-implied expected returns, and textual analysis,
+with a particular focus on how corporate labor misconduct is reflected in financial markets.
+
+I have worked as a Research Assistant at the <a href="https://www.kep.unipi.gr" target="_blank">
+University of Piraeus Research Centre </a> and I am also an <a href="https://iffr.gr/" target="_blank">
+IFFR Doctoral Fellow </a>. Prior to my doctoral studies, I gained industry experience in consulting and shipping,
+working at <a href="https://www.pwc.com/" target="_blank">PwC</a>, TMS Bunkers, and Seacharm Navigation.
+
+I will be on the 2026-27 academic job market. Please feel free to reach out if you would like to discuss my research or
+potential collaborations.
+
+
+
+
+
+<h3>Working Papers</h3>
+
+
+
+
+<hr>
+<section class="paper">
+<p class="mb-1">
+<a class="paper-title"
+   href="working_papers/Corporate Labor Misconduct Risk 20260729.pdf">
+Corporate Labor Misconduct Risk: Evidence from 10-K Disclosures and Enforcement
+</a>
+(with
+<a href="https://sites.google.com/view/george-skiadopoulos"
+   target="_blank"
+   rel="noopener noreferrer">
+George Skiadopoulos
+</a>).<br>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6780582">
+July 2026 Draft
+</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6780582">
+[SSRN]
+</a>
+<br>
+<strong><em><u>Job Market Paper.</u></em></strong>
+</p>
+<details class="mt-1">
+<summary>Abstract</summary>
+<p>
+Despite growing attention to corporate misconduct, firm-level measures of corporate labor misconduct risk remain limited.
+We develop novel textual measures of labor misconduct risk for U.S.-listed firms by combining 10-K risk disclosures with
+labor-related violation and penalty data and a comprehensive labor-risk dictionary. The measures capture distinct
+dimensions of labor misconduct related to benefit and wage violations, employment discrimination, and workplace safety.
+They predict subsequent enforcement actions, exhibit patterns consistent with regulatory and industry variation, and are
+associated with future stock return volatility. While realized stock returns show no significant labor risk premium,
+option-implied expected returns reveal a strong size pattern: the premium is positive for large firms but negative for
+small firms. The differential pricing of labor misconduct risk across firm size is consistent with differences in firms'
+information environments.
+</p>
+<ul>
+<li><strong>Presented at:</strong>
+<a href="https://www.fmarc.eu" target="_blank">FMARC</a>, Ayia Napa June 30, 2026,
+<a href="https://www.fma.org" target="_blank">FMA European Conference</a>, Braga June 12, 2026,
+<a href="https://joint-research-centre.ec.europa.eu/jrc-summer-school-sustainable-finance/jrc-summer-school-sustainable-finance-7th-edition-2025-07-10_en" target="_blank">7th JRC Summer School on Sustainable Finance</a>, Ispra July 10, 2025,
+and <a href="https://www.therisksociety.com" target="_blank">IRMC</a>, Bari June 24, 2025.
+
+</li>
+</ul>
+</details>
+</section>
+
+
+
+
+
+
+
+<section class="paper">
+<p class="mb-1">
+<a class="paper-title">
+Market Risk Premium: What do Option Markets Tell Us?
+</a>
+(with
+<a href="https://sites.google.com/view/george-skiadopoulos"
+   target="_blank"
+   rel="noopener noreferrer">
+George Skiadopoulos
+</a>).
+</p>
+<details class="mt-1">
+<summary>Abstract</summary>
+<p>
+Prior research documents that option-implied information outperforms historical returns in estimating the market
+risk premium for market-timing strategies in the U.S. up to 2010. We revisit this evidence using a longer sample
+that includes major global shocks, a multi-country setting (U.S., U.K., Germany, Japan, and South Korea), and
+alternative methods for extracting information from option prices. Our findings indicate that option-implied measures
+still outperform historical ones, but mainly for less risk-averse investors and when model parameters are estimated
+with recent data. These results are robust across multiple evaluation metrics and historical benchmarks, though the
+best-performing option-based method varies across time periods, reflecting differing dynamics in option-implied risk
+premia.
+</p>
+<ul>
+</ul>
+</details>
+</section>
+
+
+
+
+
+<section class="paper">
+<p class="mb-1">
+<a class="paper-title">
+Are Corporate Labor Misconduct Risks Priced in the Cross-Section of US Bond Returns?
+</a>
+(with
+<a href="https://sites.google.com/view/george-skiadopoulos"
+   target="_blank"
+   rel="noopener noreferrer">
+George Skiadopoulos
+</a>).
+</p>
+<details class="mt-1">
+<summary>Abstract</summary>
+<p>
+We examine whether various dimensions of corporate labor misconduct risk is priced in the cross-section of U.S.
+corporate bond returns over 2007–2024. We employ Politis and Skiadopoulos, 2026, textual firm-level measures of
+corporate labor misconduct risk and transaction-based bond returns from Enhanced TRACE. Univariate portfolio sorts and
+bond-level cross-sectional regressions yield no evidence for labor risks to be priced. On the other hand, bivariate
+portfolio sorts identify that risks stemming from employment discrimination are priced among financially constrained,
+small with greater probability to default firms. However, the evidence vanishes when portfolios are formed within
+industries, while workplace safety risk turn out to be priced among financially constrained issuers. Our findings
+indicate that investors assess labor risks differently relative to the operating conditions of each industry. Overall,
+the evidence provides limited support for a pervasive labor risk premium, but suggests a workplace safety premium among
+financially constrained issuers.
+</p>
+<ul>
+</ul>
+</details>
+</section>
+
+
+<h2>Discussions</h2>
+<ul class="discussion">
+
+<li>
+<a href="discussions/Foreign_Exchange_Risk_and_Expected_Stock_Returns_in_the_Eurozone___Discussion.pdf">
+Foreign Exchange Risk and Expected Stock Returns in the Eurozone </a>
+<span class="authors">
+by Christoforos K. Andreou, Soteria Charalambous, and Andreas Savvides
+</span>
+<div class="conference">
+<a href="https://www.fmarc.eu" target="_blank">FMARC</a>, Ayia Napa June 29, 2026
+</div>
+</li>
+
+
+<li>
+<a href="discussions/Labor_Market_Frictions_and_AI_related_Human_Capital.pdf">
+Labor Market Frictions and AI-related Human Capital Investment: Evidence from Salary History Bans </a>
+<span class="authors">
+by Nan Li, Zhuang Zhang, and Bo Wang
+</span>
+<div class="conference">
+<a href="https://www.fma.org" target="_blank">FMA European Conference</a>, Braga June 12, 2026,
+</div>
+</li>
+
+<li>
+<a href="discussions/Safe_to_Talk__Safe_to_Work__Anti_SLAPP_Statutes_and_Workplace_Safety.pdf">
+Safe to Talk, Safe to Work: Anti-SLAPP Statutes and Workplace Safety </a>
+<span class="authors">
+by Konstantinos Bozos, Jie Chen, Yang Gao, Mengxi Li, and Jiayi Yuan
+</span>
+<div class="conference">
+<a href="https://www.fma.org" target="_blank">FMA European Conference</a>, Braga June 12, 2026,
+</div>
+
+</li>
+
