@@ -62,7 +62,7 @@
 }
 
 .nodraftpaper {
-    color: #222;
-    text-decoration: underline;
+    color: #222 !important;
+    text-decoration: underline !important;
 }
 
