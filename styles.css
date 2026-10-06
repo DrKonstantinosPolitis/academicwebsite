@@ -66,3 +66,44 @@
     text-decoration: underline;
 }
 
+
+@media (max-width: 768px) {
+
+    .homepage {
+        grid-template-columns: 1fr;
+        gap: 25px;
+        margin-top: 10px;
+        padding: 20px;
+    }
+
+    .profile {
+        position: static;
+    }
+
+    .profile-photo {
+        width: 100%;
+        max-width: 320px;
+        height: auto;
+    }
+
+    .name {
+        font-size: 1.8rem;
+        line-height: 1.1;
+    }
+
+    .affiliation {
+        line-height: 1.2;
+        margin-bottom: 1.2rem;
+    }
+
+    .paper-title,
+    .nodraftpaper,
+    a {
+        overflow-wrap: break-word;
+        word-break: break-word;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
